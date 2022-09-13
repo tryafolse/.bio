@@ -17,11 +17,11 @@
          background-position: center;
      }
     
-     .h2 {
-      width: 220px;
+      h2 {
+      width: 2220px;
       height: 20px; 
       border: 34px; 
-      color: #146d5a;
+      color: #146d5a23;
     }
 }
 

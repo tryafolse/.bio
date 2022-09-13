@@ -25,6 +25,7 @@ a {
         background-color: white;
         
 }
+
 button {
         display: inline-block;
         padding: 20px 101px;
@@ -38,7 +39,7 @@ button {
 }
 a:link {
         text-decoration: none;
-        background-color: rgb(255, 255, 255);
+        background-color: rgba(139, 139, 139, 0.692);
         border-radius: 240px;
 }
 
