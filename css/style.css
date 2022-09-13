@@ -1,0 +1,31 @@
+@media screen and (min-width: 1000px) { 
+
+   .phone{ background: url(../img/phone_pc.jpg);
+         height: 100vh;
+          background-repeat: no-repeat;
+           background-size:cover;
+            background-position: center;
+        }
+}
+
+@media screen and (max-width: 999px) {
+
+   .phone{ background: url(../img/phone_android.jpg);
+       height: 100vh;
+       background-repeat: no-repeat;
+        background-size:cover;
+         background-position: center;
+     }
+    
+     .h2 {
+      width: 220px;
+      height: 20px; 
+      border: 34px; 
+      color: #146d5a;
+    }
+}
+
+
+
+
+
